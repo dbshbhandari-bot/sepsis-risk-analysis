@@ -1,0 +1,25 @@
+Sepsis Risk Analysis Report
+========================================
+
+Total Patients: 240
+High Risk Patients: 4
+Medium Risk Patients: 50
+Low Risk Patients: 186
+
+Top Doctors:
+Doctor_On_Duty
+Dr. Mensah       60
+Dr. Patel        58
+Dr. Adebayo      48
+Dr. Rodriguez    41
+Dr. Nguyen       33
+Name: count, dtype: int64
+
+Doctor Risk Breakdown:
+Risk_Score       0   1   2  3
+Doctor_On_Duty               
+Dr. Adebayo     16  18  12  2
+Dr. Mensah      19  28  11  2
+Dr. Nguyen      11  17   5  0
+Dr. Patel       18  26  14  0
+Dr. Rodriguez   15  18   8  0
