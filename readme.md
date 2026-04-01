@@ -1,4 +1,4 @@
-# 🧠 Sepsis Risk Analysis System
+ Sepsis Risk Analysis System
 
 **Author:** Dibash Bhandari
 
@@ -8,29 +8,29 @@ This project analyzes patient health data to identify individuals at risk of sep
 
 The goal of this project is to demonstrate practical skills in:
 
-* Python programming
-* Data analysis
-* Data visualization
-* Project structuring (modular code)
+ Python programming
+ Data analysis
+ Data visualization
+ Project structuring (modular code)
 
 ---
 
  Area i have focused on :
 
-* Data cleaning (removal of invalid values)
-* Risk score calculation based on:
+Data cleaning (removal of invalid values)
+ Risk score calculation based on:
 
-  * Heart Rate
-  * White Blood Cell Count (WBC)
-  * Lactate levels
-* Patient categorization:
+   Heart Rate
+   White Blood Cell Count (WBC)
+   Lactate levels
+ Patient categorization:
 
-  * High Risk
-  * Medium Risk
-  * Low Risk
-* Doctor-wise and Ward-wise risk analysis
-* Automatic CSV report generation
-* Graphical visualization of patient data
+  High Risk
+  Medium Risk
+  Low Risk
+ Doctor-wise and Ward-wise risk analysis
+ Automatic CSV report generation
+ Graphical visualization of patient data
 
  MY  Project Structure
 
@@ -61,7 +61,7 @@ Sepsis_Risk_Analysis/
 
 ---
 
- ▶️ How to Run
+ How to Run
 
 1. Open terminal in the project root directory
 2. Run the following command:
@@ -76,35 +76,29 @@ python scripts/main.py
 
 After running this project, the system will:
 
-* Generate categorized CSV files for patient risk levels
-* Produce doctor and ward analysis reports
-* Save visual graphs in the `images/` folder
-* Create a summary report (`summary_report.txt`)
+ Generate categorized CSV files for patient risk levels
+ Produce doctor and ward analysis reports
+ Save visual graphs in the `images/` folder
+ Create a summary report (`summary_report.txt`)
 
  Key information to learn 
 
-* Working with real-world healthcare datasets
-* Applying condition-based risk modeling
-* Structuring Python projects professionally
-* Automating analysis pipelines
-
----
+ Working with real-world healthcare datasets
+ Applying condition-based risk modeling
+  Structuring Python projects professionally
+ Automating analysis pipelines
 
  Future plan , my future aim 
-
-* Add machine learning model for prediction
-* Build a web dashboard (Streamlit)
-* Integrate real-time hospital data
+ Add machine learning model for prediction
+ Build a web dashboard (Streamlit)
+ Integrate real-time hospital data
 
 ---
 
-## 📎 Dataset 
+ Dataset 
 
 Dataset sourced from Kaggle (for learning purposes)
 
----
-
-## 💡 Note
-
+ Note
 This project is built for educational and portfolio purposes to demonstrate practical data analysis and Python programming skills.
 thank you 
