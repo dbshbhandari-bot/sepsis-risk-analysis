@@ -15,7 +15,7 @@ The goal of this project is to demonstrate practical skills in:
 
 ---
 
-## ⚙️ Area i have focused on :
+ Area i have focused on :
 
 * Data cleaning (removal of invalid values)
 * Risk score calculation based on:
@@ -32,9 +32,7 @@ The goal of this project is to demonstrate practical skills in:
 * Automatic CSV report generation
 * Graphical visualization of patient data
 
----
-
-## 📂 MY  Project Structure
+ MY  Project Structure
 
 ```
 Sepsis_Risk_Analysis/
@@ -63,7 +61,7 @@ Sepsis_Risk_Analysis/
 
 ---
 
-## ▶️ How to Run
+ ▶️ How to Run
 
 1. Open terminal in the project root directory
 2. Run the following command:
@@ -74,7 +72,7 @@ python scripts/main.py
 
 ---
 
-## 📊 Output
+ Output
 
 After running this project, the system will:
 
@@ -83,9 +81,7 @@ After running this project, the system will:
 * Save visual graphs in the `images/` folder
 * Create a summary report (`summary_report.txt`)
 
----
-
-## 🧠 Key information to learn 
+ Key information to learn 
 
 * Working with real-world healthcare datasets
 * Applying condition-based risk modeling
@@ -94,7 +90,7 @@ After running this project, the system will:
 
 ---
 
-## 🚀 Future plan , my future aim 
+ Future plan , my future aim 
 
 * Add machine learning model for prediction
 * Build a web dashboard (Streamlit)
